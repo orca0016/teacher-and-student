@@ -1,0 +1,24 @@
+.h-barChart {
+    grid-column: span 13;
+    grid-row: span 5;
+    background-color: #232323;
+  }
+  
+  .recharts-cartesian-axis-line {
+    stroke: transparent !important;
+  }
+  .swiper-slide > div {
+    display: none;
+  }
+  .swiper-slide-active > div {
+    display: block;
+  }
+  .light1 .h-barChart h1{
+    color: #232323;
+  }
+  .light1 .h-areaChart h1{
+    color: #232323;
+  }
+  .light1 .h-pieChart-container h1{
+    color: #232323;
+  }
